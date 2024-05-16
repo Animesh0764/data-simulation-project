@@ -33,4 +33,4 @@ This is a simulation of a hospital emergency room using SimPy and Tkinter. The s
 
 ## Credits
 
-This project was developed by Aastha Bansal, Vanshika Singh and Animesh Singh.
+This project was developed by Animesh Singh(221030360), Aastha Bansal(221030380) and Vanshika Singh(221030414).
